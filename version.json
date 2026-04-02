@@ -1,0 +1,6 @@
+{
+  "latestVersion": "1.1.0",
+  "updateUrl": "https://github.com/telepisodes/mywatchseries/releases/latest",
+  "forceUpdate": false,
+  "changelog": "🎉 New Features:\n• Added episode streaming support\n• Improved search functionality\n• Fixed poster overflow issues\n\n🐛 Bug Fixes:\n• Fixed season list navigation\n• Fixed movie detail page layout"
+}
