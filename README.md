@@ -1,1 +1,1 @@
-This is the official source for MyWatchSeries.lol app. Visit https://mywatchseries.lol for more details about MyWatchSeries.
+MyWatchSeries is your ultimate companion for discovering movies and TV shows. Browse trending content, explore popular titles, and find your next favorite show. This is the official source for MyWatchSeries.lol app. Visit https://mywatchseries.lol for more details about MyWatchSeries.
