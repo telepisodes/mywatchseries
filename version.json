@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "updateUrl": "https://github.com/telepisodes/mywatchseries/releases/latest",
   "forceUpdate": false,
-  "changelog": "🎉 New Features:\n• Added search icon in appbar"
+  "changelog": "🎉 New Features:\n• Added cast information \n• Minor Optimization"
 }
